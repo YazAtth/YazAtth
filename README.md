@@ -23,13 +23,13 @@ I'm Yasith
 
 ## Projects
 - My State of News app allows you to see what is happening with the news today at a glance using a network graph.
-  - https://stateofnews.netlify.app  &larr; Check it out!
+  - **https://stateofnews.netlify.app  &larr; Check it out!**
     <br>
   <img src="https://github.com/YazAtth/YazAtth/assets/89665845/655ab714-c811-44f9-9486-bc9edd274f16" style="width:70%"></img>
 
     
 - My Irish Rail app allows you to see departures from your desired station by getting realtime data from the Irish Rail API.
-  - https://irishrailapp.com &larr; Check it out!
+  - **https://irishrailapp.com &larr; Check it out!**
     <br>
     <img src="https://github.com/YazAtth/YazAtth/assets/89665845/3a6bc9c0-9e72-45e6-8821-bd29157303d0" style="width:70%"></img>
 
