@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Yasith
 - 👨‍🎓 I'm a BSc Computer Science Student at UCD.
-- 👨‍💼 I've previously interned at **AIG** (American International Group) and **PwC** (PricewaterhouseCoopers).
+- 👨‍💼 I've previously interned at Bank of America, PwC and AIG.
 - 👨‍💻 I love programming solutions that solve **real-world problems**.
 
 ## Projects
